@@ -1,0 +1,13 @@
+#navbar ul li {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#navbar {
+    color:lavender ;
+}
+nav a img {
+    width: 130%;
+    height: auto;
+}
